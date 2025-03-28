@@ -9,7 +9,7 @@
 - [Free Edition Panabit Intelligent Application Gateway](#-free-edition-panabit-intelligent-application-gateway)
 - [Free Edition Panalog](#-free-edition-panalog)
 - [Free Edition NTM](#-free-edition-ntm)
-- [Free Edition NTM](#-ntm)
+
 ---
 
 ## 🚀🔥🔹 Free Edition Panabit Intelligent Application Gateway  
@@ -74,6 +74,9 @@ Click to download ⬇️
 ---
 
 ## ⚡️💻🔹 Free Edition NTM  
+## <a id="free-edition-ntm"></a>⚡️💻🔹 Free Edition NTM
+
+
 Next-generation Content-based Full Traffic Analysis & Tracing Solution
 
 ### 🛠️ Core Features
