@@ -76,7 +76,7 @@ Click to download ⬇️
 ---
 
 ## Free Edition NTM     
-## <a id="free-edition-ntm"></a>⚡️💻🔹 Free Edition NTM
+
 
 
 Next-generation Content-based Full Traffic Analysis & Tracing Solution
