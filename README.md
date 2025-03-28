@@ -25,11 +25,11 @@
 4. 🔗 LAN+WAN最大线路数 [8]
 
 ### 📦 免费版安装包
-1. 🐧 Linux版本安装ISO <https://download.panabit.com:9443/install.php>      
-2. ⬆️ Linux版本最新升级包  
-3. ❓ 使用帮助  
-4. 📄 安装说明  
-5. 💬 论坛帮助  
+1. 🐧 [Linux版本安装ISO](https://download.panabit.com:9443/install.php)      
+2. ⬆️ [Linux版本最新升级包](https://download.panabit.com:9443/)  
+3. ❓ [使用帮助](https://bbs.panabit.com/forum.php?mod=viewthread&tid=10124&extra=page%3D1)  
+4. 📄 [安装说明](https://bbs.panabit.com/forum.php?mod=viewthread&tid=22321&extra=page%3D1)  
+5. 💬 [论坛帮助](https://bbs.panabit.com/forum.php?mod=forumdisplay&fid=21)  
 
 **⬇️ 安装包下载链接**: `[下载链接](https://example.com/panabit)`
 
@@ -54,15 +54,14 @@
 5. ⚠️ 威胁情报、异常诊断
 
 ### 📦 免费版安装包
-1. 🖥️ FreeBSD版本安装ISO  
-2. 🔄 FreeBSD版本最新升级包  
-3. 🐧 Linux版本安装包  
-4. ⬆️ Linux版本最新升级包  
-5. ❓ 使用帮助  
-6. 📄 安装说明  
-7. 💬 论坛帮助  
+1. [🖥️ FreeBSD版本安装ISO](https://download.panabit.com:9443/install.php?product=panalog)  
+2. [🔄 FreeBSD版本最新升级包](https://download.panabit.com:9443/?product=panalog)  
+3. [🐧 Linux版本安装包](https://download.panabit.com:9443/install.php?product=panalog)  
+4. [⬆️ Linux版本最新升级包](https://download.panabit.com:9443/?product=panalog)  
+5. [❓ 使用帮助](https://bbs.panabit.com/forum.php?mod=viewthread&tid=10161&extra=page%3D1)  
+6. [📄 安装说明](https://bbs.panabit.com/thread-23368-1-1.html)  
+7. [💬 论坛帮助](https://bbs.panabit.com/forum.php?mod=forumdisplay&fid=25)
 
-**⬇️ 安装包下载链接**: `[下载链接](https://example.com/panalog)`
 
 ---
 
@@ -84,10 +83,11 @@
 2. 🧠 内存 [4GB]、🖴 硬盘 [1块，256G]
 
 ### 📦 免费版安装包
-1. 🐧 Linux版本安装ISO  
-2. ⬆️ Linux版本最新升级包  
-3. ❓ 使用帮助  
-4. 📄 安装说明  
-5. 💬 论坛帮助  
+1. [🐧 Linux版本安装ISO](https://download.panabit.com:9443/install.php?product=ntm)  
+2. [⬆️ Linux版本最新升级包](https://download.panabit.com:9443/?product=ntm)  
+3. [❓ 使用帮助](https://bbs.panabit.com/forum.php?mod=viewthread&tid=23376&fromuid=264015)  
+4. [📄 安装说明](https://bbs.panabit.com/forum.php?mod=viewthread&tid=23223&extra=page%3D1)  
+5. [💬 论坛帮助](https://bbs.panabit.com/forum.php?mod=forumdisplay&fid=64)
 
-**⬇️ 安装包下载链接**: `[下载链接](https://example.com/ntm)`
+
+
