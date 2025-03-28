@@ -9,7 +9,7 @@
 - [Free Edition Panabit Intelligent Application Gateway](#-free-edition-panabit-intelligent-application-gateway)
 - [Free Edition Panalog](#-free-edition-panalog)
 - [Free Edition NTM](#-free-edition-ntm)
-
+- [Free Edition NTM](#-ntm)
 ---
 
 ## 🚀🔥🔹 Free Edition Panabit Intelligent Application Gateway  
