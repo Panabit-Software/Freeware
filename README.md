@@ -31,7 +31,6 @@
 4. 📄 [安装说明](https://bbs.panabit.com/forum.php?mod=viewthread&tid=22321&extra=page%3D1)  
 5. 💬 [论坛帮助](https://bbs.panabit.com/forum.php?mod=forumdisplay&fid=21)  
 
-**⬇️ 安装包下载链接**: `[下载链接](https://example.com/panabit)`
 
 ---
 
