@@ -88,5 +88,12 @@
 4. [📄 安装说明](https://bbs.panabit.com/forum.php?mod=viewthread&tid=23223&extra=page%3D1)  
 5. [💬 论坛帮助](https://bbs.panabit.com/forum.php?mod=forumdisplay&fid=64)
 
+---
 
+
+📢 **更多信息**  
+🔗 访问官网：[www.panabit.com](https://www.panabit.com/)  
+📧 技术支持邮箱：support@panabit.com
+ 
+📞 联系我们，获取更详细的解决方案！
 
