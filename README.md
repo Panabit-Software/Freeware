@@ -1,3 +1,6 @@
+<p>
+    <a href="README_CN.md">中文<a/>|  English   
+</p>
 # Panabit Free Software Repository
 
 ## Table of Contents
