@@ -7,8 +7,8 @@
 ## Table of Contents
 
 - [Free Edition Panabit Intelligent Application Gateway](#-free-edition-panabit-intelligent-application-gateway)
-- [Free Edition Panalog](#free-edition-panalog)
-- [Free Edition NTM](#free-edition-ntm)
+- [Free Edition Panalog](#-free-edition-panalog)
+- [Free Edition NTM](#-free-edition-ntm)
 
 ---
 
@@ -41,7 +41,7 @@ Click to download ⬇️
 
 ---
 
-## <a id="free-edition-ntm"></a>⚡️💻🔹 Free Edition Panalog
+## ⚡️💻🔹 Free Edition Panalog
 Big Data Log Audit System
 
 ### 🛠️ Core Features
@@ -74,8 +74,6 @@ Click to download ⬇️
 ---
 
 ## ⚡️💻🔹 Free Edition NTM  
-
-
 
 Next-generation Content-based Full Traffic Analysis & Tracing Solution
 
