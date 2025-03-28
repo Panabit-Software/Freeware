@@ -1,4 +1,7 @@
-
+<p>
+    <a href="README.md">English<a/>|  中文   
+</p>
+      
 # Panabit免费软件仓库
 
 ## 目录
