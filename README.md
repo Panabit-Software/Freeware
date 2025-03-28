@@ -24,7 +24,10 @@
 3. 🛣️ 免费版应用路由  
 4. 🔗 LAN+WAN最大线路数 [8]
 
-### 📦 免费版安装包
+### 📦 免费版安装包   
+
+点击链接获取⬇️   
+
 1. 🐧 [Linux版本安装ISO](https://download.panabit.com:9443/install.php)      
 2. ⬆️ [Linux版本最新升级包](https://download.panabit.com:9443/)  
 3. ❓ [使用帮助](https://bbs.panabit.com/forum.php?mod=viewthread&tid=10124&extra=page%3D1)  
@@ -52,7 +55,10 @@
 4. 🏅 TOP用户、TOP服务器  
 5. ⚠️ 威胁情报、异常诊断
 
-### 📦 免费版安装包
+### 📦 免费版安装包   
+
+点击链接获取⬇️   
+
 1. [🖥️ FreeBSD版本安装ISO](https://download.panabit.com:9443/install.php?product=panalog)  
 2. [🔄 FreeBSD版本最新升级包](https://download.panabit.com:9443/?product=panalog)  
 3. [🐧 Linux版本安装包](https://download.panabit.com:9443/install.php?product=panalog)  
@@ -82,6 +88,9 @@
 2. 🧠 内存 [4GB]、🖴 硬盘 [1块，256G]
 
 ### 📦 免费版安装包
+
+点击链接获取⬇️    
+
 1. [🐧 Linux版本安装ISO](https://download.panabit.com:9443/install.php?product=ntm)  
 2. [⬆️ Linux版本最新升级包](https://download.panabit.com:9443/?product=ntm)  
 3. [❓ 使用帮助](https://bbs.panabit.com/forum.php?mod=viewthread&tid=23376&fromuid=264015)  
