@@ -27,8 +27,7 @@ Integrated Intelligent Gateway | Network Traffic Visibility & Control | Built-in
 ### 📊 Performance Specifications
 1. 🚦 Max Concurrent Connections (Free Edition) [65,536]  
 2. 🌍 Max Concurrent IPs (Free Edition) [256]  
-3. 🛣️ Application Routing (Free Edition)  
-4. 🔗 Max LAN/WAN Interfaces [8]
+3. 🔗 Max LAN/WAN Interfaces [8]
 
 ### 📦 Free Edition Installation Packages  
 Click to download ⬇️  
