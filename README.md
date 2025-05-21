@@ -20,7 +20,7 @@ Integrated Intelligent Gateway | Network Traffic Visibility & Control | Built-in
 2. 🌐 6 WAN Port Load Balancing  
 3. ⚙️ Traffic Control & Smart DNS  
 4. 📈 NPM Network Performance Monitoring  
-5. 🔢 Connection Limit Control & HTTP Management  
+5. 🔢 Concurrent Connections Control & HTTP Management  
 6. 🖥️ MAC Control & Web Authentication  
 7. 📜 Comprehensive Logging Capabilities
 
